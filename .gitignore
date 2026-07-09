@@ -1,0 +1,6 @@
+# В репозитории только готовый перевод, README и скриншоты.
+/*
+!/.gitignore
+!/README.md
+!/screenshots
+!/Dread Delusion_Data
